@@ -1,0 +1,30 @@
+p, h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 400px;
+    color: rgb(109, 109, 109);
+    
+}
+
+body {
+    background-color: rgb(255, 242, 218);
+}
+
+p{
+    font-size: 16 pt;
+}
+
+h1 {
+    font-size: 32 pt;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+h2 {
+    font-size: 28 pt;
+}
+
+h3 {
+    font-size: 24 pt;
+}
